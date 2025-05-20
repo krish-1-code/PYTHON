@@ -1,2 +1,2 @@
 # PYTHON
-My first repository for python.
+My first repository for python language.
